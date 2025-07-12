@@ -56,7 +56,7 @@
 
 ## 🌐 Contact & Showcase
 
-- 💼 [Portfolio & Resume](https://pukarplayz.carrd.co)  
+- 💼 [Portfolio & Resume](https://pukar-adhikari.com.np)  
 - 📧 Email: pukarad56@gmail.com  
 - 🌍 Support Server: [Solovent Discord](https://discord.gg/V2FvH3YJSm)
 
